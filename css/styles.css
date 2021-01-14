@@ -1918,6 +1918,7 @@ a:hover.back-to-top {
 
 .team {
   width: 150px;
+  margin-bottom: 23px;
 }
 
 @keyframes float {
